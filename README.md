@@ -1,28 +1,27 @@
-### Olá! Seja bem vindo ao meu Projeto de Sorteio Eletrônico ###
+![Logo Amigo secreto](https://github.com/user-attachments/assets/31e36db6-20a6-463b-886c-705fb5446baf)
+<h1 align="center"> Jogo do amigo secreto</h1>
+# Índice 
 
-### Tópicos 
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Abrir e rodar o projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
-- [Descrição do projeto](#descrição-do-projeto)
+  O projeto tem a premícia de adicionar nomes de amigos e o sistema automaticamente e aleatoriamente escolhera, depois de adicionados 2 amigos, um amigo secreto para o usuário.
+  ![amigo secreto](https://github.com/user-attachments/assets/6621db8f-1268-4cfe-aafe-122b069ebcf3)
 
-- [Funcionalidades](#funcionalidades)
+  # :hammer: Funcionalidades do projeto
 
-- [Aplicação](#aplicação)
+- `Adicionar `: Botão que adiciona o nome do usuário ou de um amigo escolhido pelo usuário dentro do formulário, após isso, o nome é listado em forma de lista.
+- `Sortear Amigo`: Escolhe aleatoriamente um nome escolhido pelo usuário e depois imprime o valor do mesmo na tela
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- # 🛠️ Abrir e rodar o projeto
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
-- [Desenvolvedores](#desenvolvedores)
-
-## Descrição do projeto 
-
-<p align="justify">
- O projeto tem como premícia o sorteio de nomes de amigos de forma secreta, aleátoria e totalmente programada. 
- O sistema possui um campo onde é possível digitar nomes, e a partir de 2 nomes o sistema pode aleatoriamente escolher um amigo que será seu amigo secreto! Legal não?
- Veja a interface na imagem abaixo 
-  ![Descrição do projeto Sorteio Eletrônico, onde se pode escolher a partir de dois nomes e sortear um para que de forma aleatória se escolha seu amigo secreto!](
-</p>
-
-
+- Você pode rodar o projeto através do link do github: 
+- 
