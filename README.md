@@ -5,12 +5,10 @@
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Abrir e rodar o projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
 
   O projeto tem a premícia de adicionar nomes de amigos e o sistema automaticamente e aleatoriamente escolhera, depois de adicionados 2 amigos, um amigo secreto para o usuário.
