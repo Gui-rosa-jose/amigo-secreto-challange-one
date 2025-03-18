@@ -32,6 +32,6 @@
 
 # Autores
 
-| [<img loading="Guilherme" src="" width=115><br><sub>Guilherme da Rosa</sub>](https://github.com/camilafernanda) 
+| [<img loading="Guilherme" src="https://avatars.githubusercontent.com/u/195639648?s=400&u=abad0112a23c95c2a8c439f47cf94709874127f3&v=4" width=115><br><sub>Guilherme da Rosa</sub>](https://github.com/camilafernanda) 
 | :---: | :---: | :---: |
 
