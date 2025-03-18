@@ -23,4 +23,15 @@
 
 - # 🛠️ Abrir e rodar o projeto
 
-- Você pode rodar o projeto através do link do github: 
+- Você pode rodar o projeto através do link: https://amigo-secreto-challange-6r4k33hmn-gui-rosa-joses-projects.vercel.app/ e ficar por dentro de todas as funcionalidades do Projeto
+
+# Tecnologias Utilizadas
+- `HTML`
+- `JAVASCRIPT`
+- `GIT`
+
+# Autores
+
+| [<img loading="Guilherme" src="https://avatars.githubusercontent.com/u/195639648?v=4" width=115><br><sub>Guilherme da Rosa</sub>](https://github.com/camilafernanda) 
+| :---: | :---: | :---: |
+
