@@ -35,3 +35,6 @@
 | [<img loading="Guilherme" src="https://avatars.githubusercontent.com/u/195639648?v=4&size=64" width=115><br><sub>Guilherme da Rosa</sub>](https://github.com/camilafernanda) 
 | :---: | :---: | :---: |
 
+# Conclusão 
+Obrigado por se interessar por esse projeto, estamos em constante aprendizado e evolução. Sinta-se a vontade paa contribuir!
+
