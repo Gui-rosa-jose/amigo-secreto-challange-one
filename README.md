@@ -24,4 +24,3 @@
 - # 🛠️ Abrir e rodar o projeto
 
 - Você pode rodar o projeto através do link do github: 
-- 
